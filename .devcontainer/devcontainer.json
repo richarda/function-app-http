@@ -1,0 +1,11 @@
+{
+    "extensions": [
+        "ms-azuretools.vscode-azurefunctions",
+        "ms-dotnettools.csharp",
+        "github.github-vscode-theme"
+    ],
+
+    "settings": {
+        "workbench.colorTheme": "GitHub Dark"
+    }
+}
